@@ -1,7 +1,9 @@
 Solutions to Advent of Code 2017
 --------------------------------
 
-Solutions written in Python using Jupyter Notebook.
+Solutions written in Python using Jupyter Notebook. Can be viewed directly on
+GitHub if you're on a computer. If you're on mobile, use
+[nbviewer](http://nbviewer.jupyter.org/github/yaunj/adventofcode2017/tree/master/)
 
 * [Day 1](aoc1.ipynb)
 * [Day 2](aoc2.ipynb)
