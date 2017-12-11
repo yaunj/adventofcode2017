@@ -14,3 +14,4 @@ GitHub if you're on a computer. If you're on mobile, use
 * [Day 7](aoc7.ipynb)
 * [Day 8](aoc8.ipynb)
 * [Day 9](aoc9.ipynb)
+* [Day 10](aoc10.ipynb)
