@@ -19,5 +19,5 @@ GitHub if you're on a computer. If you're on mobile, use
 * [Day 12](aoc12.ipynb)
 * [Day 13](aoc13.ipynb)
 * [Day 14](aoc14.ipynb)
-* [Day 15](aoc15.ipynb): TODO
+* [Day 15](aoc15.ipynb)
 * [Day 16](aoc16.ipynb): TODO
